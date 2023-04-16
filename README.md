@@ -1,1 +1,2 @@
-# AIlearning_path
+# AI学习之路
+记录个人学习AI的过程
